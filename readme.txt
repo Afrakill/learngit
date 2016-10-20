@@ -5,4 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Git add merge 
 Git stash
-Git stash3
+Git stash2
